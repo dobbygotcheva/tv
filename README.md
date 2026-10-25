@@ -34,6 +34,7 @@ Make sure `~/.local/bin` is in your `PATH`.
 tv            # start casting
 tv --reset    # kill a stuck instance, reset P2P state, then start
 tv --stop     # stop the app
+tv --status   # show Wi-Fi / P2P / app status without casting
 tv --logs     # start with debug logs in /tmp/tv-debug.log
 tv --help
 ```
